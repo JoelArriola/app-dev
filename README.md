@@ -11,5 +11,5 @@ My first repository
   "age": 38
 }
 ```
-~~Basically Batman a Wearing White Suit~~
+~~Basically Batman Wearing a White Suit~~
 I need to highlight these ==The Best Series for me==.
